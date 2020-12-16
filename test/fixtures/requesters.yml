@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  opportunity_type: MyString
+  opportunity_description: MyString
+  contact_info: MyString
+  user: one
+
+two:
+  name: MyString
+  opportunity_type: MyString
+  opportunity_description: MyString
+  contact_info: MyString
+  user: two
